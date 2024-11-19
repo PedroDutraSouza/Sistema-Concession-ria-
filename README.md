@@ -18,7 +18,7 @@ O objetivo principal deste sistema é realizar o agendamento de atendimentos par
 ## Como Usar:
 1. Clone o repositório:
    ```
-   git clone https://github.com/usuario/repository.git
+   https://github.com/PedroDutraSouza/Sistema-Concession-ria-.git
    ```
 2. Abra o projeto na ferramenta **Visualg**.
 3. Execute o programa para começar a interagir com o sistema de agendamento.
