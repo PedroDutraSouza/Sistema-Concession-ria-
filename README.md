@@ -32,7 +32,7 @@ Este projeto é voltado para o aprendizado e a prática da lógica de programaç
 ---
 
 **Autores**:  
-- Edmilson  
+- Edmilson Pereira Silva 
 - Pedro Dutra  
 
 **Disciplina**: Lógica de Programação (Curso Técnico em Desenvolvimento de Sistemas)  
