@@ -1,4 +1,4 @@
-# Sistema de Agendamento de Atendimento - "Mão na Roda"
+# Portugol, Agendamento de Atendimento - "Mão na Roda"
 
 **Descrição**:  
 Este repositório contém o projeto desenvolvido como parte de uma Situação de Aprendizagem (SA) no curso Técnico em Desenvolvimento de Sistemas, na disciplina de Lógica de Programação. O sistema foi desenvolvido por Edmilson e Pedro Dutra e visa atender a uma demanda factícia de uma concessionária de veículos chamada "Mão na Roda". 
